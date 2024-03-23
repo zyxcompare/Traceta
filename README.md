@@ -22,7 +22,7 @@ If you have any issues please make a issue on github and I'll try to get to it a
   Menu
 </h1>
 
-![MenuImage/Screenshot 2024-03-19 184127.png](MenuImage/Screenshot%202024-03-19%20214711.png)
+![MenuImage/Screenshot 2024-03-19 184127.png](Assets/Screenshot%202024-03-23%20121628.png)
 
 
 <h1 align="center">
